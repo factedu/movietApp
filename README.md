@@ -1,4 +1,6 @@
-# Moviet - React Native App
+# MovietT - React Native App
+
+![Alt MovieT](https://github.com/factedu/movietApp/blob/main/android/app/src/main/res/mipmap-xhdpi/splash.png)
 
 Author: Ravi S Singh
 
